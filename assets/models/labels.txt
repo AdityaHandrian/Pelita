@@ -1,0 +1,4 @@
+10000 Rupiah
+20000 Rupiah
+50000 Rupiah
+100000 Rupiah
